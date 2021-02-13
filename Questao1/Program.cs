@@ -29,22 +29,22 @@ namespace Questao1
 
             if (resposta == "1")
             {
-                var arrayNumeros = Numeros.RetornarArrayPadrao();
+                var arrayNumeros = ArrayHandler.RetornarArrayPadrao();
                 Array.ForEach(arrayNumeros, numeros => Console.Write($"{numeros} "));
             }
             else
             {
-                Console.Write("Digite o tamanho desejado para o Array (quanto números poderão haver dentro dele):");
+                Console.Write("Digite o tamanho desejado para o Array (quantos números poderão ter dentro do array):");
                 int tamanho = int.Parse(Console.ReadLine());
-                var arrayNumeros = Numeros.RetornarArrayDinamico(tamanho);
+                var arrayNumeros = ArrayHandler.RetornarArrayDinamico(tamanho);
 
                 Array.ForEach(arrayNumeros, numeros => Console.Write($"{numeros} "));
             }
 
             Console.WriteLine("");
-            Console.Write("Digite um valor ALVO, esse valor deve ser a soma de dois valores entre os que estão no Array:");
+            Console.Write("Digite um valor ALVO, esse valor deve ser a soma de dois valores que estão no Array:");
             int alvo = int.Parse(Console.ReadLine());
-            var indicesRetornados = Numeros.RetornarIndices(alvo);
+            var indicesRetornados = ArrayHandler.RetornarIndices(alvo);
 
             Console.WriteLine("");
             Console.WriteLine("============================================================");

@@ -2,7 +2,7 @@
 
 namespace Questao1.Entities
 {
-    public static class Numeros
+    public static class ArrayHandler
     {
         public static int[] ArrayNumeros { get; set; }
 
