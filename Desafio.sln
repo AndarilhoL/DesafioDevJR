@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao1", "Questao1\Questao1.csproj", "{C6011652-F521-49CC-8643-BBDF1EBE925D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao2", "Questao2\Questao2.csproj", "{23DCA981-B8A0-44DC-9697-6A9FD2A2D33E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Questao2", "Questao2\Questao2.csproj", "{23DCA981-B8A0-44DC-9697-6A9FD2A2D33E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Questao3", "Questao3\Questao3.csproj", "{9C3F2C48-EAA8-4546-8883-35BE75E06EC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{23DCA981-B8A0-44DC-9697-6A9FD2A2D33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23DCA981-B8A0-44DC-9697-6A9FD2A2D33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23DCA981-B8A0-44DC-9697-6A9FD2A2D33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3F2C48-EAA8-4546-8883-35BE75E06EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3F2C48-EAA8-4546-8883-35BE75E06EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3F2C48-EAA8-4546-8883-35BE75E06EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3F2C48-EAA8-4546-8883-35BE75E06EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
