@@ -29,17 +29,17 @@ namespace Questao3.Entities
                 {
                     if (-(valorAtual) + valorAcaoFutura <= 0 && i == ArrayDeAcoes.Length-1)
                     {
-                        return "0, COMPRA NADA NÃO MEU REI, SEU LUCRO MÁXIMO SERÁ 0 (ou pior)";
+                        return "0, COMPRA NADA Nï¿½O MEU REI, SEU LUCRO Mï¿½XIMO SERï¿½ 0 (ou pior)";
                     }
 
                     if (-(valorAtual) + valorAcaoFutura > 0)
                     {
-                        return "TEM LUCRO, SÓ NÃO SEI AINDA";
+                        return "TEM LUCRO, Sï¿½ Nï¿½O SEI AINDA";
                     }
                 }
             }
 
-            return "SEI LÁ";
+            return "SEI Lï¿½";
         }
     }
 }
