@@ -1,0 +1,50 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    width: 100vw;
+    background: linear-gradient( 45deg, black 10%, #303030 10%);
+}
+
+.footerLeftSide {
+    display: flex;
+}
+
+.footerRadio {
+    display: flex;
+    align-items: center;
+    width: 8rem;
+}
+
+.footerRadio h4 {
+    color: #FB8C00;
+}
+
+.programation {
+    display: flex;
+    align-items: center;
+    margin: 0 3.2rem;
+}
+
+.programation h3 {
+    padding: 5px;
+    color: #FFF;
+}
+
+.lastUpdate{
+    display: flex;
+    align-items: center;
+}
+
+.lastUpdate p {
+    padding: 2px;
+    color: #FFF;
+}
+
+.footerRightSide {
+    margin-right: 2rem;
+}

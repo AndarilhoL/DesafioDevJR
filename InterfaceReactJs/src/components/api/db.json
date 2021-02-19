@@ -1,0 +1,50 @@
+[
+    {
+        "usuario": "anpina",
+        "email": "antonio.pina@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "01",
+        "status": false
+    },
+    {
+        "usuario": "cchang",
+        "email": "ciro.chang@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "01",
+        "status": true
+    },
+    {
+        "usuario": "tmarcal",
+        "email": "thiago.marcal@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "01",
+        "status": true
+    },
+    {
+        "usuario": "ecgiann",
+        "email": "ecgiannotto@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "01",
+        "status": true
+    },
+    {
+        "usuario": "yfernand",
+        "email": "yuri.vasquez@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "02",
+        "status": true
+    },
+    {
+        "usuario": "placerda",
+        "email": "pedro.soares.lacerda@tvglobo.com.br",
+        "dtInclusao": "28/05/2019",
+        "dtAlteracao": "30/05/2019",
+        "regras": "02",
+        "status": true
+    }
+]
