@@ -1,6 +1,6 @@
 # DesafioDevJR Backend C#
 
-##Questão 1
+## Questão 1
 Dado um array de números inteiros, retorne os índices dos
 dois números de forma que eles se somem a um alvo
 específico.
@@ -14,7 +14,7 @@ Dado nums = [2, 7, 11, 15], alvo = 9,
 Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
-##Questão 2
+## Questão 2
 Um bracket é considerado qualquer um dos seguintes caracteres: (, ), {, }, [ ou ].
 Dois brackets são considerados um par combinado se o bracket de abertura (isto
 é, (, [ou {) ocorre à esquerda de um bracket de fechamento (ou seja,),] ou} do
@@ -32,7 +32,7 @@ Exemplo
 {[(])} NAO
 {{[[(())]]}} SIM
 
-##Questão 3
+## Questão 3
 Digamos que você tenha um array para o qual o elemento i
 é o preço de uma determinada ação no dia i.
 Se você tivesse permissão para concluir no máximo uma
@@ -52,7 +52,7 @@ transação deve ser feita, lucro máximo
 igual a 0)
 
 
-##Questão 4
+## Questão 4
 Dados n inteiros não negativos representando um mapa de
 elevação onde a largura de cada barra é 1, calcule quanta
 água é capaz de reter após a chuva
